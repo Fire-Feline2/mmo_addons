@@ -8,6 +8,8 @@
 // @grant        GM_registerMenuCommand
 // @grant        unsafeWindow
 // @run-at       document-start
+// @updateURL    https://fire-feline2.github.io/mmo_addons/MMOCacheHelper.user.js
+// @downloadURL  https://fire-feline2.github.io/mmo_addons/MMOCacheHelper.user.js
 // ==/UserScript==
 
 (function() {
