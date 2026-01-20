@@ -6,6 +6,8 @@
 // @author       Fire Feline
 // @match        https://yandex.ru/games/app/*
 // @grant        none
+// @updateURL    https://fire-feline2.github.io/mmo_addons/YaResizer.user.js
+// @downloadURL  https://fire-feline2.github.io/mmo_addons/YaResizer.user.js
 // ==/UserScript==
 
 (function() {
